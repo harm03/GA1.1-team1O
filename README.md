@@ -5,3 +5,5 @@ the function add(a,b) in the file add.ipynb sums two numbers (a and b) and retur
 
 Multiply code for multiplying two numbers.
 the function uses two different inputs in order to give the choice to the user to pick two different numbers every time and returns the result
+
+The function square(x) in the file multiply.ipynb squares the numbee that the user enters as an input
