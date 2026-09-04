@@ -13,4 +13,5 @@ Only works if the given list has entries of type int and float.
 Multiply code for multiplying two numbers.
 the function uses two different inputs in order to give the choice to the user to pick two different numbers every time and returns the result
 
+The function square(x) in the file multiply.ipynb squares the number that the user enters as an input
 Created a function that substracts two numbers fron another one 
